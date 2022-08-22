@@ -1,0 +1,9 @@
+html,
+body,
+#root {
+  font: 0.9rem sans-serif;
+  background: #0a1f44;
+  color: #ffffff;
+  height: 100%;
+  margin: 0;
+}
